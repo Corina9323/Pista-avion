@@ -1,5 +1,5 @@
 # Pista-avion
-Am creat acest proiect in parteneriat cu Horjea Ana Maria. Acesta se numeste Pista unui avion si cuprinde uramtoarele elemente:
+Am creat acest proiect in parteneriat cu Horjea Ana Maria. Acesta se numeste Pista unui avion (https://github.com/Corina9323/Pista-avion/) si cuprinde uramtoarele elemente:
      -4 piste pt avioane;
      -2 tablouri care reprizinta plecarile si sosirile;
      -un orar cu plecari si sosiri;
