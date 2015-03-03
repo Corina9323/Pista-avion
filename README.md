@@ -12,6 +12,7 @@ Pe baza acestor elemente am construit urmatoarele programe respectiv subprograme
 				  Main-ul.
 				  Pistele sunt atriubuite  cu 0 pentru Aterizari si 1 pentru Decolari.
 				  !!!!!Atentie! Aterizarile au prioritate. Daca pe pista exista un avion care vrea decoleze , mai intai va trebui sa astepte un interval de timp pentru a putea decola deoaarece prioritar este aterziarea.
+	  Intervalul pentru fiecare operatiune este de 5 minute. Intre o aterizare si o decolare trebuie sa fie o diferenta de 5 minute si vom avea calcula ca distanta dintre 2 operatiuni sa fie >= cu 5 minute.
 				  
 				
 				  
