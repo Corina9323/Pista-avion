@@ -1,11 +1,19 @@
-J'ai créé ce projet en partenariat avec Horjea Ana Maria. On l'appelle la piste un avion et uramtoarele éléments incluent:
--4 pistes d'atterBasé sur ces éléments, nous avons construit des sous-programmes suivants : le site de Flight Simulator 
-Main
- Radar
- Simulator programmes 1 et 2. 
+J'ai créé ce projet en partenariat avec Horjea Ana Maria. On l'appelle la piste un avion et avec les suivantes  éléments :
+-4 pistes d'atterBasé sur ces éléments, nous avons construit des sous-programmes suivants : 
+                  -le site de Flight Simulator 
+                  -Main
+                  -Radar
+                  -Simulator programmes 1 et 2. 
 Les titres sont atriubuite avec 0 pour les atterrissages et les décollages pour 1. 
-Attention ! L'atterissages sont priorité. S'il y a une piste qui décollerait, vous devrez attendre un certain temps pour pouvoir décoller de première priorité est aterziarea deoaarece. La gamme pour chaque opération est 5 minutes. Entre l'atterrissage et le décollage doit être une différence de 5 minutes et nous allons calculer la distance entre les deux opérations soient > = 5 minutes. Qu'aborder la question pour être plus simple j'ai résolu le problème comme suit:-nous avons choisi un gestionnaire pour les décollages et un pour les débarquements ; 
--nous créons 2 theread de sites prioritaires ; masusra - ce qui est l'horloge indique 00:00, nous allons vérifier la liste. Mais sur cette liste peuvent avoir une interval de temps 2 atterrissages et décollages ou decololare 5 et à la suite de 0. À un moment donné, la liste sera vide, car il y n'aura aucun atterrissages ou décollages. Et puis, nous vous informerons chaque fois que votre avion peut décoller ou atterrir.
+
+
+Attention ! L'atterissages sont priorité. 
+S'il y a une piste qui décollerait, vous devrez attendre un certain temps pour pouvoir décoller de première priorité est aterziarea deoaarece. La gamme pour chaque opération est 5 minutes. Entre l'atterrissage et le décollage doit être une différence de 5 minutes et nous allons calculer la distance entre les deux opérations soient > = 5 minutes. Qu'aborder la question pour être plus simple j'ai résolu le problème comme suit:-nous avons choisi un gestionnaire pour les décollages et un pour les débarquements ; 
+-nous créons 2 theread de sites prioritaires ; 
+-temp - ce qui est l'horloge indique 00:00, nous allons vérifier la liste. 
+Mais sur cette liste peuvent avoir une interval de temps 2 atterrissages et décollages ou decololare 5 a.m  et à la suite de 0 p.m.
+
+À un moment donné, la liste sera vide, car il y n'aura aucun atterrissages ou décollages. Et puis, nous vous informerons chaque fois que votre avion peut décoller ou atterrir.
 Entre l'atterrissage et le décollage doit être une différence de 5 minutes et nous allons calculer la distance entre les deux opérations soient > = 2 minutes. 
 Qu'aborder la question pour être plus simple j'ai résolu le problème comme suit:-nous avons choisi un gestionnaire pour les décollages et un pour les débarquements ; 
 -nous créons 2 theread de sites prioritaires ; masusra - ce qui est l'horloge indique 00:00, nous allons vérifier la liste;
